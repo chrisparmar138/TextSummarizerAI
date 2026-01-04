@@ -1,61 +1,83 @@
 # ✂ TextSummarizerAI — Text Summarization Tool
 
-TextSummarizerAI is a small practice project that I built to understand how text processing and summarization logic works. The idea behind this project was to create a simple tool that can take a long piece of text and convert it into a shorter and more readable summary.
-
-While working on this project, my focus was mainly on improving my logic building, problem-solving skills, and working with string and text handling.
+TextSummarizerAI is a small practice-based project that allows the user to enter a long piece of text and generate a shorter and more readable summary. The project focuses on text processing, logic implementation, and simple user interaction in a utility-style application.
 
 ---
 
-## ✨ What This Tool Does
+## ✨ Features
 
-- Takes long input text from the user
-- Processes the content
-- Generates a shorter summarized version
-- Keeps the meaning as close as possible to the original text
-
-This project helped me understand how text-based applications work in real scenarios.
-
----
-
-## 🧠 Learning & Practice Areas
-
-- Text handling and processing
-- Working with logic and conditions
-- Basic program structure
-- Breaking problems into smaller steps
-- Writing cleaner and more understandable code
+- Accepts long text input from the user
+- Processes and analyzes the given text
+- Generates a shorter summarized output
+- Keeps the meaning as close as possible to the original content
+- Simple and easy-to-use interface
 
 ---
 
-## 📂 Main Parts of The Project
+## 📂 Main Components in the Project
 
-- Input text area / section
-- Text processing logic
-- Output summary section
-- Basic UI flow for user interaction
-
----
-
-## 🎯 What I Learned From This Project
-
-- How to design a simple problem-focused application
-- Thinking about how users interact with a tool
-- Writing logical steps for processing input
-- Structuring small real-world style features
-
-Even though this is a small project, it helped me strengthen my fundamentals.
+- Text input section
+- Text processing / summarization logic
+- Output summary display area
+- Basic UI flow for interaction
 
 ---
 
-## 🚀 Future Enhancements I May Add
+## ▶ Java Version Compatibility
 
-- Multiple summary levels (short / medium / detailed)
-- Word and sentence count display
-- Option to export or copy summary text
-- Better UI and formatting features
+This project is suitable to run with:
+
+👉 **Java 8 or higher**  
+(Recommended: **JDK 8 / JDK 11**)
+
+Make sure a compatible Java version is installed before running the project.
+
+---
+
+## ▶ How to Run This Project in Your Local Environment
+
+This project is designed to run in a local development environment.
+
+Follow these general steps to run it:
+
+1️⃣ Download the project  
+- Download or clone the project folder to your system
+
+2️⃣ Open the project  
+- Open it in your preferred code editor or IDE
+
+3️⃣ Ensure Java is installed  
+- Use Java 8 / Java 11 or a higher compatible version
+
+4️⃣ Run the program  
+- Execute the project from your IDE / local environment
+
+The setup may vary slightly depending on your system configuration.
+
+---
+
+## ▶ How to Use the Project
+
+1. Run the program  
+2. Enter or paste long text in the input section  
+3. Generate the summary  
+4. View the summarized text output
+
+The tool is useful for testing text-based logic and small utility workflows.
+
+---
+
+## 🛠 Tools & Technologies Used
+
+- Java (Compatible with **Java 8 / Java 11 or above**)  
+- Text handling & processing
+- Local development environment
+- Basic UI & interaction components
+
+*(Tools are listed based on core functionality and project structure.)*
 
 ---
 
 ## 📘 Project Status
 
-This is a learning-oriented project that I may continue improving as I explore more text-based and utility-style applications.
+This is a practice-oriented utility project created to work with text processing and summarization concepts. The project may be improved or extended in future versions.
